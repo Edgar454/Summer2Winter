@@ -1,0 +1,6 @@
+torch
+tochvision
+pillow
+numpy
+skimage
+matplotlib
